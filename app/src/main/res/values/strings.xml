@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalCalcul</string>
+    <string name="action_settings">remove it</string>
+    <string name="first_fragment_label">Menu</string>
+    <string name="second_fragment_label">Ajouter un aliment</string>
+    <string name="produit_fragment">Ajouter un produit à la base de données</string>
+    <string name="next">Next</string>
+    <string name="previous">Retour</string>
+    <string name="titrefrag1">Menu</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="ajouter_un_aliment">Ajouter un aliment</string>
+    <string name="aliment">description </string>
+    <string name="kcal"> cal</string>
+    <string name="nom">nom</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="validerProd">Valider</string>
+    <string name="liste_vide">Liste vide</string>
+    <string name="kcaldescription">Kcal</string>
+    <string name="poid">Poids en grams ou volume en ml</string>
+    <string name="info">Info</string>
+    <string name="lorempisum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi placerat egestas nisl a feugiat. Nunc posuere erat turpis. Integer non massa sit amet mauris aliquet interdum eu id magna. Donec sed massa pretium, blandit nulla a, venenatis lorem. Cras feugiat eget quam vitae dictum. Curabitur efficitur sodales fermentum. Fusce ligula nunc, sagittis eget felis nec, lacinia commodo tellus. Nam quis vehicula tellus, et elementum nunc.</string>
+
+</resources>
